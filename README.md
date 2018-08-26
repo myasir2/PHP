@@ -14,6 +14,9 @@ Before you run this project, here are a couple things you need to do:
     </route>
     ```
 
+## Registrating a new Client
+To register a new client, you'll first have to register an API user by going to /register and filling out the form. Then register the client by writing this command: "php bin/console oauth:client:create --grant-type=password". This is only for the basic functionality. You can search up the documentation for the FOSOAuthServerBundle to find more parameters for the command
+
 ## HTTP Requests
 Here is what the http request for getting the token should look like: <br>
 ![](https://github.com/myasir2/PHP/blob/REST_API_with_OAuth2.0/http-token-request.JPG)
