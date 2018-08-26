@@ -14,3 +14,9 @@ Before you run this project, here are a couple things you need to do:
     </route>
     ```
 
+## HTTP Requests
+Here is what the http request for getting the token should look like: <br>
+![](https://github.com/myasir2/PHP/blob/REST_API_with_OAuth2.0/http-token-request.JPG)
+
+Here is what the http message request should look like: <br>
+![](https://github.com/myasir2/PHP/blob/REST_API_with_OAuth2.0/http-message-request.JPG)
