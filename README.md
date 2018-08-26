@@ -1,2 +1,2 @@
-# PHP
-Personal projects created using PHP
+# REST API with OAuth2
+In today's world, RESTful web services are very popular as they allow data transfer between two hosts and run over HTTP giving several advantages over other web services such as SOAP. However many APIs are used to transfer private data and therefore an authentication process is to be implemented. One of the popular authentication frameworks is the OAuth2 framework. This project utilizes the popular PHP MVC framework, Symfony 4.1, as the backbone of the application and the FOSUserBundle & FOSOAuthServerBundle. The FOSUserBundle is just a wrapper around the typical Symfony built-in user authentication process so if you were to create your own user authentication provider, you would have to edit the security.yaml config file. And the FOSOAuthServerBundle enables the OAuth2 functionality. Before you utilize this functionality, be sure to understand how OAuth2 works.
