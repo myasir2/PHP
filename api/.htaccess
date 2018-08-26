@@ -8,6 +8,4 @@ Options -indexes
 
     RewriteCond %{REQUEST_FILENAME} -f
     RewriteRule .? - [L]
-
-    #RewriteRule .? %{ENV:BASE}/ca/public/index.php [L]
 </IfModule>
