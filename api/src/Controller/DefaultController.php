@@ -10,7 +10,7 @@
     class DefaultController extends Controller
     {
         /**
-         * @Route("/get/messagse")
+         * @Route("/v1/get/messagse")
          * @Method({"GET"})
          */
         public function index()
