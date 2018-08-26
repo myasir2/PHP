@@ -1,2 +1,2 @@
 # PHP
-Personal projects created using PHP
+This repository contains examples of some of the work I have done using PHP. The examples are separated by branches and each branch contains more information about the project. Feel free to pull the code and incorporate in your own applications althought I suggest you try to understand it before incorporating it as it will help if you come across any issues and also might broaden your knowledge about PHP.
