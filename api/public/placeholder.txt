@@ -1,0 +1,1 @@
+this is just a placeholder text file for the folder "public". The folder is required by symfony and since Git doesn't commit empty folders, i have created this placeholder text file. This folder initially was the home to index.php but after i prefer the index.php to be in the root rather than the public folder for URL aesthetic purposes
